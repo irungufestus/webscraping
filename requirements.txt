@@ -1,0 +1,12 @@
+beautifulsoup4
+requests
+dataset 
+datetime
+Urllib3
+notebook
+ensure==1.0.3
+PyYAML
+-e .
+
+
+
