@@ -18,6 +18,8 @@ list_of_files = [
     f"src/{project_name}/pipeline/logger.py",
     f"src/{project_name}/pipeline/exception.py",
     f"src/{project_name}/pipeline/utils.py",
+    f"src/{project_name}/pipeline/utils/__init__.py",
+    f"src/{project_name}/pipeline/utils/common.py",
     f"src/{project_name}/entity/__init__.py",
     f"src/{project_name}/constants/__init__.py",
     "config/config.yaml",
